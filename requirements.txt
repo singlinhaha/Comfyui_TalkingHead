@@ -12,4 +12,4 @@ cuda-python
 imageio-ffmpeg
 colored 
 polygraphy
-numpy==2.0.1
+numpy==1.26.4
