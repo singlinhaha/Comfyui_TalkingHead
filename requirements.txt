@@ -1,0 +1,15 @@
+tensorrt==8.6.1
+tensorrt-bindings==8.6.1
+tensorrt-libs==8.6.1
+librosa
+tqdm
+filetype
+imageio
+opencv_python_headless
+scikit-image
+cython
+cuda-python
+imageio-ffmpeg
+colored 
+polygraphy
+numpy==2.0.1
